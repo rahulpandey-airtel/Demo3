@@ -1,3 +1,3 @@
 # Headings
 <p> This is a new feature </p>
-<p> Author - Rahul Pandey </p>
+<p> Added a drop-down feature. </p>
